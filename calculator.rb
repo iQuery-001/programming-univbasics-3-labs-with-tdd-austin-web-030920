@@ -2,11 +2,7 @@
 first_number = 3
 second_number = 5
 
-def calculator(x, y)
-  sum = (x + y)
-  difference = (x - y)
-  product = (x * y)
-  quotient = (x / y)
-
-
-calculator(first_number, second_number)
+sum = (first_number + y)
+difference = (first_number - y)
+product = (first_number * y)
+quotient = (first_number)
