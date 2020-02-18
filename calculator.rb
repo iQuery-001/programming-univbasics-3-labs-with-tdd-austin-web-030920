@@ -1,9 +1,12 @@
 # Add your variables here
-def calculator(first_number, second_number)
-  sum = (first_number + second_number)
-  difference = (first_number - second_number)
-  product = (first_number * second_number)
-  quotient = (first_number / second_number)
+first_number = 3
+second_number = 5
+
+def calculator(x, y)
+  sum = (x + y)
+  difference = (x - y)
+  product = (x * y)
+  quotient = (x / y)
 end
 
-calculator(3, 5)
+calculator(first_number, second_number)
