@@ -1,7 +1,5 @@
 # Add your variables here
-def calculator(x, y)
-  first_number = x
-  second_number = y
+def calculator(first_number, second_number)
   sum = (first_number + second_number)
   difference = (first_number - second_number)
   product = (first_number * second_number)
