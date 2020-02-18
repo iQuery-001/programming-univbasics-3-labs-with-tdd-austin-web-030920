@@ -1,5 +1,5 @@
 # Add your variables here
 def calculator(first_number, second_number)
   sum = (first_number + second_number)
-  product = ()
+  product = (first_number * second_number)
 end
