@@ -7,6 +7,6 @@ def calculator(x, y)
   difference = (x - y)
   product = (x * y)
   quotient = (x / y)
-end
+
 
 calculator(first_number, second_number)
